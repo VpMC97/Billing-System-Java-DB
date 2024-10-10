@@ -1,0 +1,8 @@
+Sistema de facturación (agregar, buscar, modificar, eliminar y reportes) con módulos de:
+- Clientes
+- Empleados
+- Proveedores
+- Artículos
+con Base de Datos MySQL.
+
+Módulo de FACTURA aún pendiente de pasarlo a BD.
